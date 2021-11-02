@@ -1,1 +1,2 @@
 GPL
+This protocol means free for usage
